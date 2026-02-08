@@ -56,7 +56,7 @@ For Example:
 [Links](https://example.com) are text + URL
 
 ```
-Paste the snippet above into dillinger.io, a live Markdown editor, to see how plain text is instantly rendered into structured documentation.
+Paste the snippet above into [dillinger.io](https://dillinger.io/), a live Markdown editor, to see how plain text is instantly rendered into structured documentation.
 
 ### 2. Version Control
 Docs live in Git repositories alongside or near the code they describe. This provides:
